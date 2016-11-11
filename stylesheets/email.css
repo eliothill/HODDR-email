@@ -238,7 +238,7 @@ table.warning {
 
 
 table.help {
- 	padding-left:10px;
+/* 	padding-left:10px;*/
 	background-color: #F8F8F8;
 	border-top: 10px solid #912B88;	
 }
