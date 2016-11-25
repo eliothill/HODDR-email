@@ -236,6 +236,10 @@ table.warning {
 	border-left: 10px solid #DEE0E2;	
 }
 
+table.highlight {
+ 	padding:7px;
+	background-color: #d4f4f2;
+}
 
 table.help {
 /* 	padding-left:10px;*/
