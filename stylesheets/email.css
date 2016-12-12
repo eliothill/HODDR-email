@@ -236,11 +236,21 @@ table.warning {
 	border-left: 10px solid #DEE0E2;	
 }
 
+table.highlight {
+ 	padding:7px;
+	background-color: #d4f4f2;
+}
 
 table.help {
 /* 	padding-left:10px;*/
 	background-color: #F8F8F8;
 	border-top: 10px solid #912B88;	
+}
+
+table.reminder {
+/* 	padding-left:10px;*/
+	background-color: #d4f4f2;
+	border-top: 10px solid #28A197;	
 }
 
 .code {
