@@ -247,6 +247,12 @@ table.help {
 	border-top: 10px solid #912B88;	
 }
 
+table.reminder {
+/* 	padding-left:10px;*/
+	background-color: #d4f4f2;
+	border-top: 10px solid #28A197;	
+}
+
 .code {
 	text-decoration:none;
 	color: #FFFFFF;
